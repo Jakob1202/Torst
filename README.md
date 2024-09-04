@@ -1,7 +1,7 @@
 # Tørst
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <img src="https://github.com/Jakob1202/Torst/blob/main/assets/screenshots/screenshot1.png" width="150" height="auto" style="margin: 5px;">
+  <img src="https://github.com/Jakob1202/Torst/blob/main/assets/screenshots/screenshot1.png" width="200" height="auto" style="margin: 5px;">
   <img src="https://github.com/Jakob1202/Torst/blob/main/assets/screenshots/screenshot2.png" width="150" height="auto" style="margin: 5px;">
   <img src="https://github.com/Jakob1202/Torst/blob/main/assets/screenshots/screenshot3.png" width="150" height="auto" style="margin: 5px;">
   <img src="https://github.com/Jakob1202/Torst/blob/main/assets/screenshots/screenshot4.png" width="150" height="auto" style="margin: 5px;">
