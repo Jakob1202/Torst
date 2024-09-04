@@ -15,6 +15,3 @@ First set up a Firebase project with the following collections: users, drinks an
 ```bash
 npm install
 npx expo start
-
-
-
