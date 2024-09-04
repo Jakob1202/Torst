@@ -3,9 +3,9 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <img src="https://github.com/Jakob1202/Torst/blob/main/assets/screenshots/screenshot1.png" width="160" height="auto" style="margin: 5px;">
   <img src="https://github.com/Jakob1202/Torst/blob/main/assets/screenshots/screenshot2.png" width="160" height="auto" style="margin: 5px;">
+  <img src="https://github.com/Jakob1202/Torst/blob/main/assets/screenshots/screenshot5.png" width="160" height="auto" style="margin: 5px;">
   <img src="https://github.com/Jakob1202/Torst/blob/main/assets/screenshots/screenshot3.png" width="160" height="auto" style="margin: 5px;">
   <img src="https://github.com/Jakob1202/Torst/blob/main/assets/screenshots/screenshot4.png" width="160" height="auto" style="margin: 5px;">
-  <img src="https://github.com/Jakob1202/Torst/blob/main/assets/screenshots/screenshot5.png" width="160" height="auto" style="margin: 5px;">
 </div>
 
 Web app to monitor and manage blood alcohol consumption (BAC) in a drinking session with multiple users.
