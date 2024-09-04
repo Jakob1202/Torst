@@ -1,3 +1,4 @@
+# Tørst
 Web app to monitor and manage blood alcohol consumption (BAC) in a drinking session with multiple users.
 
 To run the project:
