@@ -1,11 +1,11 @@
 # Tørst
 Web app to monitor and manage blood alcohol consumption (BAC) in a drinking session with multiple users.
 
-![Alt text for the image](https://github.com/Jakob1202/Torst/tree/main/assets/screenshots/screenshot1)
-![Alt text for the image](https://github.com/Jakob1202/Torst/tree/main/assets/screenshots/screenshot2)
-![Alt text for the image](https://github.com/Jakob1202/Torst/tree/main/assets/screenshots/screenshot3)
-![Alt text for the image](https://github.com/Jakob1202/Torst/tree/main/assets/screenshots/screenshot4)
-![Alt text for the image](https://github.com/Jakob1202/Torst/tree/main/assets/screenshots/screenshot5)
+![Alt text for the image](https://github.com/Jakob1202/Torst/tree/main/assets/screenshots/screenshot1.png)
+![Alt text for the image](https://github.com/Jakob1202/Torst/tree/main/assets/screenshots/screenshot2.png)
+![Alt text for the image](https://github.com/Jakob1202/Torst/tree/main/assets/screenshots/screenshot3.png)
+![Alt text for the image](https://github.com/Jakob1202/Torst/tree/main/assets/screenshots/screenshot4.png)
+![Alt text for the image](https://github.com/Jakob1202/Torst/tree/main/assets/screenshots/screenshot5.png)
 
 
 To run the project:
