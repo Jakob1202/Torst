@@ -11,7 +11,7 @@
 Web app to monitor and manage blood alcohol consumption (BAC) in a drinking session with multiple users.
 
 To run the project:
-First set up a Firebase project with the following collections: users, drinks and sessions, and an email/password authentication provider. Copy the Firebase config into this file: [firebase.js](https://github.com/Jakob1202/Torst/tree/main/src/config/firebase.js). Then run:
+First set up a Firebase project with the following collections: users, drinks and sessions, and an email/password authentication provider. Copy the Firebase config into this file: [src/config/firebase.js](https://github.com/Jakob1202/Torst/tree/main/src/config/firebase.js). Then run:
 ```bash
 npm install
 npx expo start
