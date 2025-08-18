@@ -1,0 +1,67 @@
+{
+  "expo": {
+    "name": "torst",
+    "displayName": "Tørst",
+    "slug": "Torst",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo/appstore.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo/appstore.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "bundleIdentifier": "com.jakobnordlundby.torst",
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "supportsTablet": false,
+      "buildNumber": "9",
+      "icon": "./assets/logo/appstore.png",
+      "infoPlist": {
+        "CFBundleDisplayName": "Tørst",
+        "UILaunchStoryboardName": "SplashScreen",
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo/appstore.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.jakobnordlundby.torst"
+    },
+    "web": {
+      "favicon": "./assets/logo/appstore.png"
+    },
+    "plugins": [
+      "expo-router",
+      "@react-native-firebase/app",
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+            "useFrameworks": "static"
+          }
+        }
+      ]
+    ],
+    "extra": {
+      "firebaseConfig": {
+        "apiKey": "AIzaSyAxKr83u4pxlypLsntyb-iwR14h4w2Gbsw",
+        "authDomain": "torst-6bd67.firebaseapp.com",
+        "projectId": "torst-6bd67",
+        "storageBucket": "torst-6bd67.appspot.com",
+        "messagingSenderId": "718052416191",
+        "appId": "1:718052416191:web:4103c69b8efa407d79840a"
+      },
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "7047d350-9e31-4ff3-bb21-2a47daeefced"
+      }
+    }
+  }
+}

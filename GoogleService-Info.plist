@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDJlzmKuyr1xIqWgQ2UBn4aAn7I6x5gkfM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>718052416191</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jakobnordlundby.torst</string>
+	<key>PROJECT_ID</key>
+	<string>torst-6bd67</string>
+	<key>STORAGE_BUCKET</key>
+	<string>torst-6bd67.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:718052416191:ios:044d199e2e75079f79840a</string>
+</dict>
+</plist>
